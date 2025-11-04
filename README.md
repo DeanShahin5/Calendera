@@ -71,7 +71,7 @@ Natural language AI assistant:
 - "Tell mom dinner for tomorrow sounds great"
 - Markdown-formatted responses with conversation memory
 
-### ✅ Task Management
+### Task Management
 - Auto-groups by deadline: Overdue / Today / This Week / Later
 - Priority indicators based on message urgency
 - One-click complete/incomplete
