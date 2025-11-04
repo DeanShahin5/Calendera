@@ -246,10 +246,9 @@ Built for Cal Hacks '25. Contributions welcome!
 
 ## Contact
 
-**Dean Shahin**
+- **Dean Shahin**
 deanshahin@berkeley.edu
----
-**Naisha Jain**
+- **Naisha Jain**
 naisha_jain@berkeley.edu
 
 others fill here
