@@ -250,8 +250,9 @@ Built for Cal Hacks '25. Contributions welcome!
 deanshahin@berkeley.edu
 - **Naisha Jain**
 naisha_jain@berkeley.edu
+- **Vamika Singhal**
+vamika_singhal@berkeley.edu
 
-others fill here
 
 Built with Next.js, React, TypeScript, and Claude AI
 
